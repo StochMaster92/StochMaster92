@@ -1,0 +1,12 @@
+<repository>
+<id>AsposeJavaAPI</id>
+<name>Aspose Java API</name>
+<url>https://repository.aspose.com/repo/</url>
+</repository>
+
+<dependency>
+<groupId>com.aspose</groupId>
+<artifactId>aspose-3d</artifactId>
+<version>version of aspose-3d API</version>
+<classifier>jdk17</classifier>
+</dependency>
